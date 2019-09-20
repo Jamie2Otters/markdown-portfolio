@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Why This Is Great__
+_1. I learn code_
+_2. Because I dont get board_
